@@ -10,15 +10,8 @@
 
 ---
 
-## 📷 미리보기  
-<img src="https://your-image-url.com/preview1.png" width="600"/>
-<!-- 필요하다면 아래 이미지도 추가 -->
-<!-- <img src="https://your-image-url.com/preview2.gif" width="600"/> -->
-
----
-
 ## 📺 시연 영상  
-[![YouTube](https://img.shields.io/badge/YouTube-Project_Demo-red?logo=youtube&logoColor=white)](https://youtube.com/your-video-link)
+[![Dwarf the Blacksmith - Demo](https://img.youtube.com/vi/bJ7YGtzRQmI/hqdefault.jpg)](https://youtu.be/bJ7YGtzRQmI)
 
 ---
 
