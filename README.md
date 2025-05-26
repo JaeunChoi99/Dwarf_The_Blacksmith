@@ -15,9 +15,8 @@
 
 ---
 
-## 🔗 자세한 내용  
-- [📘 Notion 프로젝트 문서 바로가기]([https://your-notion-link.com](https://leaf-dinosaur-9b5.notion.site/Dwarf-The-Blacksmith-1f2e29ae70f281f996a8cab39d7acff2))
-
+## 📘 자세한 프로젝트 설명  
+📎 [Notion 프로젝트 페이지 보러 가기](https://leaf-dinosaur-9b5.notion.site/Dwarf-The-Blacksmith-1f2e29ae70f281f996a8cab39d7acff2)
 ---
 
 ### 🔧 기능 요약
